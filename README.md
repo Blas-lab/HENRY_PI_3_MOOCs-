@@ -25,7 +25,7 @@ En esta sección se describirá el proceso llevado a cabo para limpiar y preproc
 Por inconvenientes con el tamaño de archivos y carpetas, solo se puede disponer en github de aquello justo y necesario para correr el proyeto
 En el link de drive se puede acceder al proyecto entero y la presentación de power BI
 
-https://drive.google.com/drive/folders/1CTfT57fXwONuErVQekRGz2iMoiosuMBT?usp=sharing
+https://drive.google.com/drive/folders/1COnhDXXHp4YZ-t6PpHSbQtHiowKxmF6l?usp=sharing
 
 # Sobre EDA en el proyecto:
 En este proyecto, se realizó un análisis exploratorio de datos (EDA) en los datasets de cursos en línea recolectados de Coursera, Udemy y edX. Durante este proceso, se limpiaron y transformaron los datos para lograr una mejor comprensión de la información. Se identificaron y trataron valores faltantes y duplicados y se renombraron las columnas para una mejor legibilidad.
